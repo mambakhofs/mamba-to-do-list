@@ -59,6 +59,30 @@ button{
     color: #fff;
 }
 
+.stats {
+    display: flex;
+    justify-content: space-between;
+    background: #e0f2fe;
+    padding: 12px 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #0369a1;
+    font-weight: bold;
+}
+
+.stats p {
+    margin: 0;
+}
+
+.stats span {
+    background: #0284c7;
+    color: #ffffff;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 12px;
+    margin-left: 4px;
+}
 ul li {
     list-style: none;
     font-size: 17px;
